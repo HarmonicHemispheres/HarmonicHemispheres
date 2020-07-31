@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Rust-black?color=black&style=for-the-badge&logo=Rust"/>
 </a>
 <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue"/>
 </a>
 <a href="https://www.rust-lang.org/">
     <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter"/>
