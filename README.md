@@ -1,24 +1,23 @@
+# More About Me
+This Profile is primarily focused on programming, engineering and computer science elements. 
+
+For more info about me see my site:
+https://robbyboney.notion.site/
+
+For see my blog posts:
+https://medium.com/@robbyb_77782
+
+<br>
 
 # _software is an art not a job_ 
 
-- 🐍 I’m currently building a Python RPA Engine at [Interject Data Systems](http://gointerject.com/)
-- 🌱 I’m currently learning [RUST](https://www.rust-lang.org/)
-- 🌟 Other Stuff I do: _Music Production_, _Drawing_, _Assassins Creed_ 
+- 🐍 I currently write ETL & Data Manipulation code @ [Interject Data Systems](http://gointerject.com/)
+- 🌱 I’m currently learning [Unity & C#](https://unity.com/)
+- 🌟 Other Stuff I do: _Music Production_, _Drawing_, _Hiking_, _Reading_
 - ⚡ Fun fact: Python lets you: `from __future__ import braces`... sorta
 
 <br>
 
-## Connect With Me
-
-<a href="https://www.linkedin.com/in/robby-boney-717486133/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?color=black&style=for-the-badge&logo=Linkedin"/>
-</a>
-<a href="https://www.linkedin.com/in/robby-boney-717486133/">
-    <img src="https://img.shields.io/badge/robbyb@gointerject.com-black?color=black&style=for-the-badge&logo=Gmail"/>
-</a>
-
-<br>
-<br>
 
 ## Languages And Tools
 
@@ -59,11 +58,4 @@
     <img src="https://img.shields.io/badge/Vue.js-black?color=black&style=for-the-badge&logo=Vue.js"/>
 </a>
 
-<br>
-<br>
-
-## Latest Blog Posts
-
-- [An Introduction to Julia](https://github.com/HarmonicHemispheres/src_box/blob/master/vol-1/issue-2/post.ipynb)
-- [Blogging with Github](https://github.com/HarmonicHemispheres/src_box/blob/master/vol-1/issue-1/post.md)
 
