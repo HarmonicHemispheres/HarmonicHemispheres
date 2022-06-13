@@ -4,7 +4,7 @@ This Profile is primarily focused on programming, engineering and computer scien
 For more info about me see my site:
 https://robbyboney.notion.site/
 
-For see my blog posts:
+For tech info see my blog posts:
 https://medium.com/@robbyb_77782
 
 <br>
