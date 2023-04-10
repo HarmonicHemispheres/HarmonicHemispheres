@@ -1,25 +1,35 @@
-# More About Me
-This Profile is primarily focused on programming, engineering and computer science elements. 
-
-For more info about me see my site:
-https://robbyboney.notion.site/
-
-For tech info see my blog posts:
-https://medium.com/@robbyb_77782
+<p align="center">
+    <i>
+    Always Learn. Always Create. Never Quit.
+    </i>
+    <br />
+    <br />
+    <a href="https://robbyboney.notion.site/">
+        <img
+            src="https://img.shields.io/badge/Website-black?color=black&style=for-the-badge&logo=Notion"
+            alt="Personal Website"
+        />
+    </a>
+    <a href="https://medium.com/@robbyb_77782">
+        <img
+            src="https://img.shields.io/badge/Website-black?color=black&style=for-the-badge&logo=Medium"
+            alt="Personal Blog"
+        />
+    </a>
+</p>
 
 <br>
 
-# _software is an art not a job_ 
-
-- 🐍 I currently write ETL & Data Manipulation code @ [Interject Data Systems](http://gointerject.com/)
-- 🌱 I’m currently learning [Unity & C#](https://unity.com/)
-- 🌟 Other Stuff I do: _Music Production_, _Drawing_, _Hiking_, _Reading_
-- ⚡ Fun fact: Python lets you: `from __future__ import braces`... sorta
+# Key Projects
+- Python Shell for OpenAi - https://github.com/HarmonicHemispheres/tacoshell
+- Stable Diffusion Research - https://github.com/HarmonicHemispheres/stable-diffusion-research
+- Interject Template Reports - https://github.com/HarmonicHemispheres/ids-report-templates
+- Helper Script Templates - https://github.com/HarmonicHemispheres/rb_helpers
 
 <br>
 
 
-## Languages And Tools
+# Languages And Tools
 
 <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-black?color=black&style=for-the-badge&logo=Python"/>
@@ -42,20 +52,4 @@ https://medium.com/@robbyb_77782
 <a href="https://www.rust-lang.org/">
     <img src="https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=Python&logoColor=blue"/>
 </a>
-
-<br>
-<br>
-
-## Other Things I Mess With
-
-<a href="https://www.blender.org/">
-    <img src="https://img.shields.io/badge/Blender-black?color=black&style=for-the-badge&logo=Blender"/>
-</a>
-<a href="https://www.gatsbyjs.org/">
-    <img src="https://img.shields.io/badge/Gatsby-black?color=black&style=for-the-badge&logo=Gatsby"/>
-</a>
-<a href="https://vuejs.org/">
-    <img src="https://img.shields.io/badge/Vue.js-black?color=black&style=for-the-badge&logo=Vue.js"/>
-</a>
-
 
