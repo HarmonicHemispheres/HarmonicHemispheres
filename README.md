@@ -14,7 +14,7 @@
     </a>
     <a href="https://medium.com/@robbyb_77782">
         <img
-            src="https://img.shields.io/badge/Website-black?color=black&style=for-the-badge&logo=Medium"
+            src="https://img.shields.io/badge/Blog-black?color=black&style=for-the-badge&logo=Medium"
             alt="Personal Blog"
         />
     </a>
