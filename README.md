@@ -28,6 +28,7 @@
 - Interject Template Reports - https://github.com/HarmonicHemispheres/ids-report-templates
 - Helper Script Templates - https://github.com/HarmonicHemispheres/rb_helpers
 - Pyscript examples - https://github.com/HarmonicHemispheres/pyscript-examples
+- Jupyter Notebook Talk Notes - https://github.com/HarmonicHemispheres/JupyterianSnakeInvasion
 
 <br>
 
