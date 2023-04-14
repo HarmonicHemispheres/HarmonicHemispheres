@@ -27,6 +27,7 @@
 - Stable Diffusion Research - https://github.com/HarmonicHemispheres/stable-diffusion-research
 - Interject Template Reports - https://github.com/HarmonicHemispheres/ids-report-templates
 - Helper Script Templates - https://github.com/HarmonicHemispheres/rb_helpers
+- Pyscript examples - https://github.com/HarmonicHemispheres/pyscript-examples
 
 <br>
 
