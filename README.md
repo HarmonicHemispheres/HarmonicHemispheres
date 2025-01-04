@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/10929547/231013366-40f6c6a6-9350-4bdd-a3b3-b5e3ec456a01.jpg" />
+    <img src="2025_theme_wp_720.png" />
     <br />
     <i>
     Always Learn. Always Create. Never Quit.
