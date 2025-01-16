@@ -6,9 +6,9 @@
     </i>
     <br />
     <br />
-    <a href="https://robbyboney.notion.site/">
+    <a href="https://robbyboney.com/">
         <img
-            src="https://img.shields.io/badge/Website-black?color=black&style=for-the-badge&logo=Notion"
+            src="https://img.shields.io/badge/Website-black?color=black&style=for-the-badge&logo=Vercel"
             alt="Personal Website"
         />
     </a>
