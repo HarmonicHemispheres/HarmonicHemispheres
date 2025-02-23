@@ -18,42 +18,63 @@
             alt="Personal Blog"
         />
     </a>
+    <a href="https://linktr.ee/robbyboney">
+        <img
+            src="https://img.shields.io/badge/Linktree-black?style=for-the-badge&logo=Linktree"
+            alt="Linktree"
+        />
+    </a>
 </p>
+<br>
+
+## Bio
+
+I am a developer and creator, always eager to learn new technologies and build innovative projects.
 
 <br>
+
 
 # Key Projects
-- Python Shell for OpenAi - https://github.com/HarmonicHemispheres/tacoshell
-- Stable Diffusion Research - https://github.com/HarmonicHemispheres/stable-diffusion-research
-- Interject Template Reports - https://github.com/HarmonicHemispheres/ids-report-templates
-- Helper Script Templates - https://github.com/HarmonicHemispheres/rb_helpers
-- Pyscript examples - https://github.com/HarmonicHemispheres/pyscript-examples
-- Jupyter Notebook Talk Notes - https://github.com/HarmonicHemispheres/JupyterianSnakeInvasion
 
-<br>
-
-
-<!-- # Languages And Tools
-
-<a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-black?color=black&style=for-the-badge&logo=Python"/>
-</a>
-<a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-black?color=black&style=for-the-badge&logo=Git"/>
-</a>
-<a href="https://www.gitlab.com/">
-    <img src="https://img.shields.io/badge/Gitlab-black?color=black&style=for-the-badge&logo=Gitlab"/>
-</a>
-<a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Rust-black?color=black&style=for-the-badge&logo=Rust"/>
-</a>
-<a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue"/>
-</a>
-<a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter"/>
-</a>
-<a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=Python&logoColor=blue"/>
-</a>
- -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://magicpilllabs.com/">
+        <img src="./images/mpl.png" alt="MagicPill Labs">
+      </a>
+      <br>MagicPill Labs - AI Evals
+    </td>
+    <td align="center">
+      <a href="https://harmonichemispheres.github.io/AI-Built-Games/">
+        <img src="./images/ai_games.png" alt="Games Made with AI">
+      </a>
+      <br>Games Made with AI
+    </td>
+    <td align="center">
+      <a href="https://github.com/HarmonicHemispheres/sheetutils/">
+        <img src="./images/sheetutils.png" alt="sheetutils">
+      </a>
+      <br>Sheetutils
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/HarmonicHemispheres/rb_helpers">
+        <img src="./images/metalmask.png" alt="Helper Script Templates">
+      </a>
+      <br>Metalmask
+    </td>
+    <td align="center">
+      <a href="https://github.com/HarmonicHemispheres/linewalksqr-paper">
+        <img src="./images/linewalksqr.png" alt="LineWalkSQR">
+      </a>
+      <br>LineWalkSQR CV Algorithm
+    </td>
+    <td align="center">
+      <a href="https://github.com/HarmonicHemispheres/JupyterianSnakeInvasion">
+        <img src="./images/unknown.png" alt="Jupyter Notebook Talk Notes">
+      </a>
+      <br>Jupyter Notebook Talk Notes
+    </td>
+  </tr>
+</table>
