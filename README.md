@@ -45,19 +45,25 @@ I am a developer and creator, always eager to learn new technologies and build i
       <br>MagicPill Labs - AI Evals
     </td>
     <td align="center">
+      <a href="https://formataquote.com/">
+        <img src="./images/formataquote_img.png" alt="Games Made with AI">
+      </a>
+      <br>Games Made with AI
+    </td>
+    <td align="center">
       <a href="https://harmonichemispheres.github.io/AI-Built-Games/">
         <img src="./images/ai_games.png" alt="Games Made with AI">
       </a>
       <br>Games Made with AI
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HarmonicHemispheres/sheetutils/">
         <img src="./images/sheetutils.png" alt="sheetutils">
       </a>
       <br>Sheetutils
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/HarmonicHemispheres/rb_helpers">
         <img src="./images/metalmask.png" alt="Helper Script Templates">
@@ -70,11 +76,13 @@ I am a developer and creator, always eager to learn new technologies and build i
       </a>
       <br>LineWalkSQR CV Algorithm
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <a href="https://github.com/HarmonicHemispheres/JupyterianSnakeInvasion">
-        <img src="./images/unknown.png" alt="Jupyter Notebook Talk Notes">
-      </a>
-      <br>Jupyter Notebook Talk Notes
-    </td>
+    <a href="https://github.com/HarmonicHemispheres/JupyterianSnakeInvasion">
+      <img src="./images/unknown.png" alt="Jupyter Notebook Talk Notes">
+    </a>
+    <br>Jupyter Notebook Talk Notes
+  </td>
   </tr>
 </table>
