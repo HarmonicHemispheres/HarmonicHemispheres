@@ -48,7 +48,7 @@ I am a developer and creator, always eager to learn new technologies and build i
       <a href="https://formataquote.com/">
         <img src="./images/formataquote_img.png" alt="Games Made with AI">
       </a>
-      <br>Games Made with AI
+      <br>Format A Quote
     </td>
     <td align="center">
       <a href="https://harmonichemispheres.github.io/AI-Built-Games/">
