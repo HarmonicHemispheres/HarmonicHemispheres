@@ -84,5 +84,11 @@ I am a developer and creator, always eager to learn new technologies and build i
     </a>
     <br>Jupyter Notebook Talk Notes
   </td>
+  <td align="center">
+    <a href="https://github.com/HarmonicHemispheres/gotion">
+      <img src="https://github.com/HarmonicHemispheres/gotion/blob/main/gotion_banner.png" alt="Gotion - AI-Powered Project Management">
+    </a>
+    <br>Gotion - AI-Powered Project Management
+  </td>
   </tr>
 </table>
